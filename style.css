@@ -29,6 +29,21 @@
     margin-top: 20px;
     margin-bottom: 150px;
 }
+#flex-container4 {
+    display:flex;
+    flex: 1;
+    justify-content: space-evenly;
+    background-color: #3882F6;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 70px;
+    border-radius: 5px;
+    padding: 35px;    
+
+}
+.item2 {
+    margin: 0px;
+}
 .border {
     border: 3px solid #3882F6;
     width: 100px;
@@ -73,4 +88,13 @@ h2 {
     display:flex;
     justify-content:right;
     margin-right: 400px;
+}
+
+footer {
+    background-color: #1f2937;
+    margin-top: 60px;
+    padding: 25px;
+}
+#foot {
+    text-align: center;
 }
