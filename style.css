@@ -23,11 +23,11 @@
     display:flex;
     flex: 1;
     justify-content: center;
-    gap: 40px;
+    gap: 65px;
     margin-left: 150px;
     margin-right: 150px;
     margin-top: 20px;
-    margin-bottom: 50px;
+    margin-bottom: 150px;
 }
 .border {
     border: 3px solid #3882F6;
@@ -59,4 +59,18 @@ h2 {
     justify-content: center;
     margin-top: 35px;
     margin-bottom: 35px;
+}
+#background-grey {
+    background-color: #e5e7eb;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+#quote {
+    margin-left: 350px;
+    margin-right: 350px;
+}
+#author {
+    display:flex;
+    justify-content:right;
+    margin-right: 400px;
 }
